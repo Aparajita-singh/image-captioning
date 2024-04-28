@@ -1,0 +1,23 @@
+#selectedImage {
+    max-width: 50%;
+    /* Increase the max-width for a larger image */
+    height: 100px;
+    float: left;
+    /* Float the image to the left */
+    margin-right: 50px;
+    /* Add some space between the image and the button */
+}
+
+#selectImage {
+    display: inline-block;
+    /* Ensure the link behaves like a block element */
+}
+#caption {
+    width: 50%;
+    height:300px;
+    margin-top: 20px;
+}
+#image1{
+    justify-content: space-between;
+    align-items: center;
+}
