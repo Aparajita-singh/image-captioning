@@ -11,6 +11,5 @@ This project implements an image captioning system using Convolutional Neural Ne
 - flask
 - opencv-python
 - numpy
-- pandass
 
 ## Link to Site 
